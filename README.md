@@ -1,1 +1,1 @@
-# ghun-theme-components
+# This is testing for publishing my frst npm libraray
